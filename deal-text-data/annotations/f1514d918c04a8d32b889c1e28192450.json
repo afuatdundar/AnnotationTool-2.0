@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["need 14 pro and 14 pro max\r",{"entities":[[5,26,"PROD"]]}],["brand new full box pack\r",{"entities":[]}],["any spec any gb all colour",{"entities":[[0,8,"NATION"],[9,15,"SPEC"],[16,26,"COLOR"]]}]]}

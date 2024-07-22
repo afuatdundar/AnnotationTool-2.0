@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["want to sale\r",{"entities":[]}],["laptop ram\r",{"entities":[[0,10,"PROD"]]}],["8gb ddr4\r",{"entities":[[0,8,"SPEC"]]}],["4gb pc4\r",{"entities":[[0,7,"SPEC"]]}],["4gb pc3l\r",{"entities":[[0,8,"SPEC"]]}],["4gb pc3\r",{"entities":[[0,7,"SPEC"]]}],["2gb pc3",{"entities":[[0,7,"SPEC"]]}]]}

@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["want to sell\r",{"entities":[]}],["15 pro max 256\r",{"entities":[[0,10,"PROD"],[11,14,"SPEC"]]}],["tra blue tt",{"entities":[[0,3,"NATION"],[4,8,"COLOR"]]}]]}

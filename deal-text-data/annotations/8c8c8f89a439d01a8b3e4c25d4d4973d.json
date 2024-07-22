@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["want to buy\r",{"entities":[]}],["samsung tab s7 fe t736 64gb 5g tra only\r",{"entities":[[0,17,"PROD"],[18,22,"PN"],[23,34,"SPEC"]]}],["black -15\r",{"entities":[[0,5,"COLOR"],[6,9,"QTY"]]}],["silver -15",{"entities":[[0,6,"COLOR"],[7,10,"QTY"]]}]]}

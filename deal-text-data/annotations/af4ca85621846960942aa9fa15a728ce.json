@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["wtb\r",{"entities":[]}],["redmi 10c 3/64gb---global\r",{"entities":[[0,9,"PROD"],[10,16,"SPEC"],[18,25,"NATION"]]}],["500 pcs\r",{"entities":[[0,3,"QTY"]]}],["offer me\r",{"entities":[]}],["confirm order",{"entities":[]}]]}

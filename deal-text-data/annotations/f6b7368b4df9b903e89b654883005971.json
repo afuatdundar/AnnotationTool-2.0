@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["wts/ready in fze\r",{"entities":[[13,16,"LOC"]]}],["note 12 8/256gb\r",{"entities":[[0,7,"PROD"],[8,15,"SPEC"]]}],["grey/gold/green/blue\r",{"entities":[[0,20,"COLOR"]]}],["eu global\r",{"entities":[[0,9,"NATION"]]}],["best price",{"entities":[]}]]}

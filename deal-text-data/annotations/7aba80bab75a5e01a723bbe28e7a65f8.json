@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["buying.fz\r",{"entities":[]}],["samsung\r",{"entities":[[0,7,"PROD"]]}],["a54 8.256\r",{"entities":[[0,3,"PROD"],[4,9,"SPEC"]]}],["any spec",{"entities":[[0,8,"NATION"]]}]]}

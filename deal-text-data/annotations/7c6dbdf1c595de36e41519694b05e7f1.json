@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["wtb apple watch se 2 40mm starlight gen2 / 2022 20\r",{"entities":[[4,25,"PROD"],[26,35,"COLOR"],[36,47,"SPEC"],[48,50,"QTY"]]}],["apple watch se 2 44mm midnight gen2 / 2022 120",{"entities":[[6,21,"PROD"],[22,30,"COLOR"],[31,42,"SPEC"],[43,46,"QTY"]]}]]}

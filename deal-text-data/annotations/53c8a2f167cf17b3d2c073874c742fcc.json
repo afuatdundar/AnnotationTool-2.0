@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["wtb\r",{"entities":[]}],["mgtf3 1 unit\r",{"entities":[[0,5,"PN"],[6,7,"QTY"]]}],["iphone 14 pro max 512gb purple tra\r",{"entities":[[0,17,"PROD"],[18,23,"SPEC"],[24,30,"COLOR"],[31,34,"NATION"]]}],["offer me best price",{"entities":[]}]]}

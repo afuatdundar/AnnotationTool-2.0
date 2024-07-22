@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["wtb want to buy\r",{"entities":[]}],["jbl t110 black\r",{"entities":[[0,8,"PROD"],[9,14,"COLOR"]]}],["jbl t110 blue\r",{"entities":[[0,8,"PROD"],[9,13,"COLOR"]]}],["jbl t110 white\r",{"entities":[[0,8,"PROD"],[9,14,"COLOR"]]}],["confirmed order",{"entities":[]}]]}

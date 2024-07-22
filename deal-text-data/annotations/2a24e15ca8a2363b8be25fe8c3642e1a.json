@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["wtb\r",{"entities":[]}],["15 pro max 256\r",{"entities":[[0,10,"PROD"],[11,14,"SPEC"]]}],["natural -10\r",{"entities":[[0,7,"COLOR"],[8,11,"QTY"]]}],["target 5140\r",{"entities":[]}],["hk non active\r",{"entities":[[0,2,"NATION"]]}],["confirm orde r",{"entities":[]}]]}

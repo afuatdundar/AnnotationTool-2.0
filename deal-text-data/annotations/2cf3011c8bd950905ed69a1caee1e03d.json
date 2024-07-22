@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["wtb\r",{"entities":[]}],["tv stick 2k 500pcs\r",{"entities":[[0,11,"PROD"],[12,18,"QTY"]]}],["tv stick 4k 500pcs\r",{"entities":[[0,11,"PROD"],[12,18,"QTY"]]}],["tv box s 600pcs",{"entities":[[0,8,"PROD"],[9,15,"QTY"]]}]]}

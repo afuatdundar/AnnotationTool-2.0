@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["wts\r",{"entities":[]}],["moto g72 8/ 128gb\r",{"entities":[[0,8,"PROD"],[9,17,"SPEC"]]}],["2k blue\r",{"entities":[[0,2,"QTY"],[3,7,"COLOR"]]}],["1k gray\r",{"entities":[[0,2,"QTY"],[3,7,"COLOR"]]}],["300 white",{"entities":[[0,3,"QTY"],[4,9,"COLOR"]]}]]}

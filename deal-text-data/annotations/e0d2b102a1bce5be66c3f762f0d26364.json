@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["wts, hk ready. please check\r",{"entities":[[5,7,"NATION"]]}],["redmi 10a 2+32g eu/us $56",{"entities":[[0,9,"PROD"],[10,15,"SPEC"],[16,21,"NATION"],[22,25,"PRICE"]]}]]}

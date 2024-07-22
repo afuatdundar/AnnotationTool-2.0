@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["want to sell\r",{"entities":[]}],["ask price\r",{"entities":[]}],["300pcs available\r",{"entities":[[0,6,"QTY"]]}],["gopro hero9 black waterproof action camera new\r",{"entities":[[0,11,"PROD"],[12,17,"COLOR"],[18,42,"PROD"]]}],["upc. 818279027181",{"entities":[[5,17,"UPC"]]}]]}

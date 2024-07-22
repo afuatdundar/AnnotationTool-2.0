@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["wts\r",{"entities":[]}],["apple\r",{"entities":[[0,5,"PROD"]]}],["iphone 7 plus\r",{"entities":[[0,13,"PROD"]]}],["256gb\r",{"entities":[[0,5,"SPEC"]]}],["sprint c\r",{"entities":[]}],["100 units\r",{"entities":[[0,9,"QTY"]]}],["ready dafza",{"entities":[[6,11,"LOC"]]}]]}

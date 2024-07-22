@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["wts\r",{"entities":[]}],["15 pro max natural\r",{"entities":[[0,10,"PROD"],[11,18,"COLOR"]]}],["256 3 pieces\r",{"entities":[[0,3,"SPEC"],[4,12,"QTY"]]}],["512 3 pieces\r",{"entities":[[0,3,"SPEC"],[4,12,"QTY"]]}],["ae tra non active",{"entities":[[0,6,"NATION"]]}]]}

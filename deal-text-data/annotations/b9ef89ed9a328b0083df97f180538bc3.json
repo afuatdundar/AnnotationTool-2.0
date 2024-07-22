@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["what to buy\r",{"entities":[]}],["dellprecession 5530.\r",{"entities":[[0,20,"PROD"]]}],["core i7 8th generation.\r",{"entities":[[0,23,"SPEC"]]}],["16/512.\r",{"entities":[[0,7,"SPEC"]]}],["4gb invidia graphics.",{"entities":[[0,21,"SPEC"]]}]]}

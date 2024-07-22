@@ -1,0 +1,12 @@
+13-inch MacBook Air: Apple M2 chip with 8-core CPU and 8-core GPU, 256GB - Space Gray	MLXW3	15
+10.9-inch iPad Wi-Fi 64GB - Yellow (2022)	MPQ23	15
+10.9-inch iPad Wi-Fi 64GB - Pink (2022)	MPQ33	15
+10.9-inch iPad Wi-Fi + Cellular 64GB - Silver (2022)	MQ6J3	5
+11-inch iPad Pro Wi-Fi 128GB - Space Gray (2022)	MNXD3	25
+11-inch iPad Pro Wi-Fi + Cellular 128GB - Space Gray (2022)	MNYC3	25
+12.9-inch iPad Pro Wi-Fi + Cellular 256GB - Space Gray (2022)	MP203	40
+12.9-inch iPad Pro Wi-Fi + Cellular 256GB - Silver (2022)	MP213	5
+12.9-inch iPad Pro Wi-Fi + Cellular 512GB - Space Gray (2022)	MP223	50
+12.9-inch iPad Pro Wi-Fi + Cellular 512GB - Silver (2022)	MP233	15
+12.9-inch iPad Pro Wi-Fi + Cellular 2TB - Silver (2022)	MP273	5
+Apple TV 4K Wi‑Fi + Ethernet with 128GB storage	MN893	50

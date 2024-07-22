@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["wts\r",{"entities":[]}],["iphone 15 pro max 256 17ps\r",{"entities":[[0,17,"PROD"],[18,21,"SPEC"],[22,26,"QTY"]]}],["4850\r",{"entities":[[0,4,"PRICE"]]}],["active singapore",{"entities":[[7,16,"LOC"]]}]]}

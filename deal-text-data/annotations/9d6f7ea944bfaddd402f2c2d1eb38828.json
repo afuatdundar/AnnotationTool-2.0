@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["w t s\r",{"entities":[]}],["redmi note 12 pro 5g 8/256gb\r",{"entities":[[0,17,"PROD"],[18,28,"SPEC"]]}],["ind spec\r",{"entities":[[0,8,"NATION"]]}],["25 blk 25 blue\r",{"entities":[[0,2,"QTY"],[3,6,"COLOR"],[7,9,"QTY"],[10,14,"COLOR"]]}],["ready local",{"entities":[]}]]}

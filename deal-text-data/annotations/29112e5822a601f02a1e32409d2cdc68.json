@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["buying\r",{"entities":[]}],["macbook air 13\r",{"entities":[[0,14,"PROD"]]}],["mly43ab/a ae tra\r",{"entities":[[0,9,"PN"],[10,16,"NATION"]]}],["macbook air apple m2 chip with 8-core cpu and 10-core gpu, 512gb midnight",{"entities":[[0,17,"PROD"],[18,64,"SPEC"],[65,73,"COLOR"]]}]]}

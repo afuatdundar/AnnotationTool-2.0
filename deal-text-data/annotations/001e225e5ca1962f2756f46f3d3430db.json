@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["seagate one touch 4tb 5tb\r",{"entities":[[0,17,"PROD"],[18,25,"SPEC"]]}],["wd my passport 4tb\r",{"entities":[[0,14,"PROD"],[15,18,"SPEC"]]}],["transcend 4tb\r",{"entities":[[0,9,"PROD"],[10,13,"SPEC"]]}],["small qty available",{"entities":[]}]]}

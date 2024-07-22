@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["wts\r",{"entities":[]}],["r910 blu tra 480 aed\r",{"entities":[[0,4,"PROD"],[5,8,"COLOR"],[9,12,"NATION"],[13,20,"PRICE"]]}],["ready 100 pcs fze",{"entities":[[6,13,"QTY"],[14,17,"LOC"]]}]]}

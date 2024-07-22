@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["wtb\r",{"entities":[]}],["iphone 12 128 black\r",{"entities":[[0,9,"PROD"],[10,13,"SPEC"],[14,19,"COLOR"]]}],["4 pcs non active",{"entities":[[0,5,"QTY"]]}]]}

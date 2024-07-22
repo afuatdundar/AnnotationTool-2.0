@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["i need\r",{"entities":[]}],["650g2 i5 6th 8/256 50pecs",{"entities":[[0,5,"PROD"],[6,18,"SPEC"],[19,25,"QTY"]]}]]}

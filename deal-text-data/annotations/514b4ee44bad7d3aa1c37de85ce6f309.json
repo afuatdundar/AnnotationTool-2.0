@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["wtb\r",{"entities":[]}],["airpod max silver - 150ps\r",{"entities":[[0,10,"PROD"],[11,17,"COLOR"],[20,25,"QTY"]]}],["airpods max gray - 100ps",{"entities":[[0,11,"PROD"],[12,16,"COLOR"],[19,24,"QTY"]]}]]}

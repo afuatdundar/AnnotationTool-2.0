@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["wts\r",{"entities":[]}],["iphone 14 pro\r",{"entities":[[0,13,"PROD"]]}],["256gb\r",{"entities":[[0,5,"SPEC"]]}],["black\r",{"entities":[[0,5,"COLOR"]]}],["purple\r",{"entities":[[0,6,"COLOR"]]}],["tra ae",{"entities":[[0,6,"NATION"]]}]]}

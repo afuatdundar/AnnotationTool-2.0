@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["wts\r",{"entities":[]}],["15 pro max 512 gb hk non active\r",{"entities":[[0,10,"PROD"],[11,17,"SPEC"],[18,20,"NATION"]]}],["blue 5 pes\r",{"entities":[[0,4,"COLOR"],[5,6,"QTY"]]}],["hoooot price",{"entities":[]}]]}

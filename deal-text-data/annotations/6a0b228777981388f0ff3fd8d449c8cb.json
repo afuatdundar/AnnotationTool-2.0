@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["wts\r",{"entities":[]}],["fold 5\r",{"entities":[[0,6,"PROD"]]}],["brand new\r",{"entities":[]}],["korean spec\r",{"entities":[[0,11,"NATION"]]}],["stock in hk\r",{"entities":[[9,11,"LOC"]]}],["pm for $",{"entities":[]}]]}

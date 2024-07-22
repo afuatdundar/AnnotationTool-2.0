@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["zte\r",{"entities":[[0,3,"PROD"]]}],["blade a31 plus 2/32\r",{"entities":[[0,14,"PROD"],[15,19,"SPEC"]]}],["grey\r",{"entities":[[0,4,"COLOR"]]}],["blue\r",{"entities":[[0,4,"COLOR"]]}],["available now",{"entities":[]}]]}

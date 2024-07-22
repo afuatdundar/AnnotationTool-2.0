@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["want to buy\r",{"entities":[]}],["2.5 ssd\r",{"entities":[[0,7,"PROD"]]}],["128 gb\r",{"entities":[[0,6,"SPEC"]]}],["256 gb",{"entities":[[0,6,"SPEC"]]}]]}

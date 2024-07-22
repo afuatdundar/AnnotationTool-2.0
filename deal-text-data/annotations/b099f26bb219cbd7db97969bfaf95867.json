@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["wtb in fze\r",{"entities":[[7,10,"LOC"]]}],["confirm\r",{"entities":[]}],["13 128 mix in 300pcs",{"entities":[[0,2,"PROD"],[3,6,"SPEC"],[7,10,"COLOR"],[11,13,"NATION"],[14,20,"QTY"]]}]]}

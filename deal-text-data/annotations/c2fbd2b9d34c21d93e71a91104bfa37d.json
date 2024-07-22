@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["wts\r",{"entities":[]}],["apple macbook air m1 256gb\r",{"entities":[[0,20,"PROD"],[21,26,"SPEC"]]}],["mgn63t/a grey\r",{"entities":[[0,8,"PN"],[9,13,"COLOR"]]}],["mgn93t/a silver",{"entities":[[0,8,"PN"],[9,15,"COLOR"]]}]]}

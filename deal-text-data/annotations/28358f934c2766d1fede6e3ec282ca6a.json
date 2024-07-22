@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["wts\r",{"entities":[]}],["010-02562-50 forerunner 55 black - english\r",{"entities":[[0,12,"UPC"],[13,26,"PROD"],[27,32,"COLOR"]]}],["500pcs\r",{"entities":[[0,6,"QTY"]]}],["exw hk\r",{"entities":[[4,6,"NATION"]]}],["eta 3 to 4 weeks",{"entities":[]}]]}

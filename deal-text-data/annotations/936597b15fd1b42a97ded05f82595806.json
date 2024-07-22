@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["wtb\r",{"entities":[]}],["a34 8/128 150 pcs\r",{"entities":[[0,3,"PROD"],[4,9,"SPEC"],[10,17,"QTY"]]}],["a24 6/128 50 pcs",{"entities":[[0,3,"PROD"],[4,9,"SPEC"],[10,16,"QTY"]]}]]}

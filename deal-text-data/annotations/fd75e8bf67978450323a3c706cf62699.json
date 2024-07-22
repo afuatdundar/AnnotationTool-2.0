@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["r e q u i r e d in qty.\r",{"entities":[]}],["branded tower pc\r",{"entities":[[14,16,"PROD"]]}],["10th generation core i5 processor, 8gb ram, 1tb sata-ii hdd 7200rpm dos.",{"entities":[[0,71,"SPEC"]]}]]}

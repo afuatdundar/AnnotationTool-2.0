@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["nokia\r",{"entities":[[0,5,"PROD"]]}],["g21 4/128\r",{"entities":[[0,3,"PROD"],[4,9,"SPEC"]]}],["rs 32,999\r",{"entities":[[0,9,"QTY"]]}],["non active\r",{"entities":[]}],["one year warranty\r",{"entities":[]}],["with rebate\r",{"entities":[]}],["available at zs mobile",{"entities":[]}]]}

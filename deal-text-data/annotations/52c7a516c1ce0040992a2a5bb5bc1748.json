@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["wts\r",{"entities":[]}],["s23 ultra 12 256\r",{"entities":[[0,9,"PROD"],[10,16,"SPEC"]]}],["s22 ultra 12 256\r",{"entities":[[0,9,"PROD"],[10,16,"SPEC"]]}],["arabic",{"entities":[[0,6,"NATION"]]}]]}

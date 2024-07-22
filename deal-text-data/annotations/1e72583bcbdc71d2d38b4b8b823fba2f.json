@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["jbl t110 wired\r",{"entities":[[0,14,"PROD"]]}],["black 1000pcs\r",{"entities":[[0,5,"COLOR"],[6,13,"QTY"]]}],["blue 300pcs\r",{"entities":[[0,4,"COLOR"],[5,11,"QTY"]]}],["white 300pcs\r",{"entities":[[0,5,"COLOR"],[6,12,"QTY"]]}],["want to buy",{"entities":[]}]]}

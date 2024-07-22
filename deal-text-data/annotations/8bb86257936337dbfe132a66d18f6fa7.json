@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["wts\r",{"entities":[]}],["iphone 12 64gb 800 pcs\r",{"entities":[[0,9,"PROD"],[10,14,"SPEC"],[15,22,"QTY"]]}],["iphone 12 128gb 150 pcs\r",{"entities":[[0,9,"PROD"],[10,15,"SPEC"],[16,23,"QTY"]]}],["vietnam vn spec, non-activated, master carton",{"entities":[[0,15,"NATION"]]}]]}

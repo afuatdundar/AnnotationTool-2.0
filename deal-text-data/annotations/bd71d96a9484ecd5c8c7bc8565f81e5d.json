@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["wts\r",{"entities":[]}],["redmi 10a 4/64 china cn\r",{"entities":[[0,9,"PROD"],[10,14,"SPEC"],[15,23,"NATION"]]}],["black blue white",{"entities":[[0,16,"COLOR"]]}]]}

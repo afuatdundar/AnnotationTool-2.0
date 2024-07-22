@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["want to buy\r",{"entities":[]}],["hp 8200 8300 tower\r",{"entities":[[0,18,"PROD"]]}],["500gb desktop\r",{"entities":[[0,13,"SPEC"]]}],["4gb ddr3 desktop\r",{"entities":[[0,16,"SPEC"]]}],["2gb ddr3 desktop",{"entities":[[0,16,"SPEC"]]}]]}

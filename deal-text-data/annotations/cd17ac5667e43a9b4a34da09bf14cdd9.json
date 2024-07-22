@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["want to buy\r",{"entities":[]}],["hp spectre\r",{"entities":[[0,10,"PROD"]]}],["15inch 14 inch\r",{"entities":[[0,14,"SPEC"]]}],["i7\r",{"entities":[[0,2,"SPEC"]]}],["16/512\r",{"entities":[[0,6,"SPEC"]]}],["x360 touch",{"entities":[[0,10,"SPEC"]]}]]}

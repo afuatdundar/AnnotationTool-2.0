@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["want to buy\r",{"entities":[]}],["ipad 9th gen 64 gb wi-fi\r",{"entities":[[0,12,"PROD"],[13,24,"SPEC"]]}],["grey 200+\r",{"entities":[[0,4,"COLOR"],[5,9,"QTY"]]}],["please check if you have",{"entities":[]}]]}

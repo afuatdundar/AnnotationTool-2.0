@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["wts\r",{"entities":[]}],["xiaomi 12 lite 8/256\r",{"entities":[[0,14,"PROD"],[15,20,"SPEC"]]}],["eu spec + eu warranty",{"entities":[[0,7,"NATION"]]}]]}

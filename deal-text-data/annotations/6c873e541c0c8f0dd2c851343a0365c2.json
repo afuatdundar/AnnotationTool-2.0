@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["want to sell\r",{"entities":[]}],["samsung m14 5g 6/128\r",{"entities":[[0,11,"PROD"],[12,20,"SPEC"]]}],["samsung f23 5g 6/128\r",{"entities":[[0,11,"PROD"],[12,20,"SPEC"]]}],["mix color\r",{"entities":[[0,9,"COLOR"]]}],["available at best price",{"entities":[]}]]}

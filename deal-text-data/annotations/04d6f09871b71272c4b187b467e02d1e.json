@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["want to buy\r",{"entities":[]}],["one sim\r",{"entities":[]}],["15 pro 128 gb\r",{"entities":[[0,6,"PROD"],[7,13,"SPEC"]]}],["natural -2",{"entities":[[0,7,"COLOR"],[8,10,"QTY"]]}]]}

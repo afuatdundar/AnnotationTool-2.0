@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["selling\r",{"entities":[]}],["nothingphone 1 12/256 eu non active\r",{"entities":[[0,14,"PROD"],[15,21,"SPEC"],[22,24,"NATION"]]}],["380 white\r",{"entities":[[0,3,"QTY"],[4,9,"COLOR"]]}],["ready",{"entities":[]}]]}

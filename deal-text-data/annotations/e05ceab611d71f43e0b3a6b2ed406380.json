@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["wts\r",{"entities":[]}],["a24 4/128 arb/ind\r",{"entities":[[0,3,"PROD"],[4,9,"SPEC"],[10,17,"NATION"]]}],["fze",{"entities":[[0,3,"LOC"]]}]]}

@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["wts\r",{"entities":[]}],["iphone 14 pro max 256gb\r",{"entities":[[0,17,"PROD"],[18,23,"SPEC"]]}],["140 pcs black\r",{"entities":[[0,3,"QTY"],[8,13,"COLOR"]]}],["price 1080 euro\r",{"entities":[[6,15,"PRICE"]]}],["eu spec",{"entities":[[0,7,"NATION"]]}]]}

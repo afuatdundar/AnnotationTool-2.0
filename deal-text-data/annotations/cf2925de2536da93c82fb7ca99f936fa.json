@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["selling\r",{"entities":[]}],["arabic\r",{"entities":[[0,6,"NATION"]]}],["s23 256gb\r",{"entities":[[0,3,"PROD"],[4,9,"SPEC"]]}],["s23 ultra 512gb\r",{"entities":[[0,9,"PROD"],[10,15,"SPEC"]]}],["freezone",{"entities":[]}]]}

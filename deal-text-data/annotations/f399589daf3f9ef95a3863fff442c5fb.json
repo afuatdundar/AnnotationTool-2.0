@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["apple\r",{"entities":[[0,5,"PROD"]]}],["iphone 14\r",{"entities":[[0,9,"PROD"]]}],["128gb\r",{"entities":[[0,5,"SPEC"]]}],["f.u\r",{"entities":[]}],["box pack\r",{"entities":[]}],["system act\r",{"entities":[]}],["black\r",{"entities":[[0,5,"COLOR"]]}],["available.....",{"entities":[]}]]}

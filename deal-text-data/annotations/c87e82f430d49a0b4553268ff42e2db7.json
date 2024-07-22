@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["good morning\r",{"entities":[]}],["do you have apple pencil 2\r",{"entities":[[12,26,"PROD"]]}],["1k",{"entities":[[0,2,"QTY"]]}]]}

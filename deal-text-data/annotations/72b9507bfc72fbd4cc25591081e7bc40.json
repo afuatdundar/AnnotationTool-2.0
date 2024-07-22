@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["hp 440g5\r",{"entities":[[0,2,"UPC"],[3,8,"PN"]]}],["i5 7th gen\r",{"entities":[[0,10,"SPEC"]]}],["touch screen\r",{"entities":[[0,12,"SPEC"]]}],["8 gb ram\r",{"entities":[[0,8,"SPEC"]]}],["256ssd\r",{"entities":[[0,6,"SPEC"]]}],["70pcs available",{"entities":[[0,5,"QTY"]]}]]}

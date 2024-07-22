@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["wtb\r",{"entities":[]}],["active stock usa us\r",{"entities":[[13,19,"NATION"]]}],["11 64\r",{"entities":[[0,2,"PROD"],[3,5,"SPEC"]]}],["11 128\r",{"entities":[[0,2,"PROD"],[3,6,"SPEC"]]}],["13 128\r",{"entities":[[0,2,"PROD"],[3,6,"SPEC"]]}],["mix need",{"entities":[]}]]}

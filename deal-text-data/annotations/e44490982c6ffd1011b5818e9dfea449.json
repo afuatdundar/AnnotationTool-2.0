@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["wts\r",{"entities":[]}],["s23 ultra 256gb\r",{"entities":[[0,9,"PROD"],[10,15,"SPEC"]]}],["green blk tra\r",{"entities":[[0,5,"COLOR"],[6,9,"COLOR"],[10,13,"NATION"]]}],["ready in local\r",{"entities":[]}],["ask for best price",{"entities":[]}]]}

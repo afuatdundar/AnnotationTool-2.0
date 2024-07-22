@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["hp pavilion plus 14 14-eh0104nw 712u0ea i5-12500h/16gb/512/win11 oled\r",{"entities":[[0,19,"PROD"],[20,31,"PN"],[32,39,"PN"],[40,69,"SPEC"]]}],["70 pcs\r",{"entities":[[0,6,"QTY"]]}],["eur822 / $885 cif",{"entities":[[0,6,"PRICE"],[9,13,"PRICE"]]}]]}

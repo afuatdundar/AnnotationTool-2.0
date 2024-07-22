@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["wtb\r",{"entities":[]}],["hk active\r",{"entities":[[0,2,"NATION"]]}],["15 promax 256\r",{"entities":[[0,9,"PROD"],[10,13,"SPEC"]]}],["natural 2 pcs",{"entities":[[0,7,"COLOR"],[8,13,"QTY"]]}]]}

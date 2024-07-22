@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["wts\r",{"entities":[]}],["13-128\r",{"entities":[[0,2,"PROD"],[3,6,"SPEC"]]}],["14-128\r",{"entities":[[0,2,"PROD"],[3,6,"SPEC"]]}],["mastercarton stocks\r",{"entities":[]}],["ready stock in dubai",{"entities":[[15,20,"LOC"]]}]]}

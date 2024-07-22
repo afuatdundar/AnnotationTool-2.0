@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["wtb in\r",{"entities":[[4,6,"NATION"]]}],["iphone 13 128 gb\r",{"entities":[[0,9,"PROD"],[10,16,"SPEC"]]}],["15 starlight\r",{"entities":[[0,2,"QTY"],[3,12,"COLOR"]]}],["10 pink",{"entities":[[0,2,"QTY"],[3,7,"COLOR"]]}]]}

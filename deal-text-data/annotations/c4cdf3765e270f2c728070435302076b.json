@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["wtb\r",{"entities":[]}],["hk active\r",{"entities":[[0,2,"NATION"]]}],["15 pro max 256\r",{"entities":[[0,10,"PROD"],[11,14,"SPEC"]]}],["natural titanium\r",{"entities":[[0,16,"COLOR"]]}],["70 pcs confirm oder",{"entities":[[0,6,"QTY"]]}]]}

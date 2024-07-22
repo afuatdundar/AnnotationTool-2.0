@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["want to sale\r",{"entities":[]}],["4gb pc3 pc3l\r",{"entities":[[0,12,"SPEC"]]}],["100 mix\r",{"entities":[[0,3,"QTY"],[4,7,"COLOR"]]}],["8gb pc3 pc3l\r",{"entities":[[0,12,"SPEC"]]}],["40 pcs mix\r",{"entities":[[0,6,"QTY"],[7,10,"COLOR"]]}],["available",{"entities":[]}]]}

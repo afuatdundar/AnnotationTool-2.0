@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["laptop lenovo ideapad gaming 3 15ihu6 82k101jhpb i5-11320h 15,6 fhd 8gb 512ssd gtx1650\r",{"entities":[[0,30,"PROD"],[31,48,"PN"],[49,86,"SPEC"]]}],["100 pcs\r",{"entities":[[0,7,"QTY"]]}],["eur519 / $558",{"entities":[[0,6,"PRICE"],[9,13,"PRICE"]]}]]}

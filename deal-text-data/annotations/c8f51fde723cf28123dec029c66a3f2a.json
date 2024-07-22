@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["wtb confirm order\r",{"entities":[]}],["14 pro max 256\r",{"entities":[[0,10,"PROD"],[11,14,"SPEC"]]}],["purple 100 pcs\r",{"entities":[[0,6,"COLOR"],[7,14,"QTY"]]}],["tra need",{"entities":[[0,3,"NATION"]]}]]}

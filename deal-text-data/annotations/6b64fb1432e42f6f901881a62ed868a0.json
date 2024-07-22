@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["buying\r",{"entities":[]}],["iphone 14 pro max 256gb arabic\r",{"entities":[[0,17,"PROD"],[18,23,"SPEC"],[24,30,"NATION"]]}],["purple 350 pcs\r",{"entities":[[0,6,"COLOR"],[7,14,"QTY"]]}],["master only\r",{"entities":[]}],["offer me ready stock",{"entities":[]}]]}

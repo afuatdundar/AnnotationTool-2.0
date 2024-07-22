@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["e wts\r",{"entities":[]}],["huawei band 7\r",{"entities":[[0,13,"PROD"]]}],["tra master box\r",{"entities":[[0,3,"NATION"]]}],["black\r",{"entities":[[0,5,"COLOR"]]}],["pink\r",{"entities":[[0,4,"COLOR"]]}],["green",{"entities":[[0,5,"COLOR"]]}]]}

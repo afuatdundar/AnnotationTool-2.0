@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["wtb\r",{"entities":[]}],["laptop hdd. 2.5\r",{"entities":[[0,15,"PROD"]]}],["1tb. slime\r",{"entities":[[0,4,"SPEC"],[5,10,"COLOR"]]}],["100 health\r",{"entities":[[0,10,"SPEC"]]}],["2500 pcs.\r",{"entities":[[0,9,"QTY"]]}],["0586626601",{"entities":[]}]]}

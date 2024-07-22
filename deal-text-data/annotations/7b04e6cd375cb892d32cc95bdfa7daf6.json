@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["wtb\r",{"entities":[]}],["1 sim indi spec\r",{"entities":[[6,15,"NATION"]]}],["iphone 11/128gb\r",{"entities":[[0,9,"PROD"],[10,15,"SPEC"]]}],["black 50\r",{"entities":[[0,5,"COLOR"],[6,8,"QTY"]]}],["white 50",{"entities":[[0,5,"COLOR"],[6,8,"QTY"]]}]]}

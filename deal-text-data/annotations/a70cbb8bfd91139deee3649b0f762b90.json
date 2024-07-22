@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["buying\r",{"entities":[]}],["arabic\r",{"entities":[[0,6,"NATION"]]}],["ksa\r",{"entities":[[0,3,"NATION"]]}],["master carton\r",{"entities":[]}],["iphone 14 pro max 256 gb\r",{"entities":[[0,17,"PROD"],[18,24,"SPEC"]]}],["purple 500 pcs",{"entities":[[0,6,"COLOR"],[7,14,"QTY"]]}]]}

@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["wts\r",{"entities":[]}],["ready to ship\r",{"entities":[]}],["iphone 14 pro max 128/256\r",{"entities":[[0,17,"PROD"],[18,25,"SPEC"]]}],["iphone 14 pro 128/256\r",{"entities":[[0,13,"PROD"],[14,21,"SPEC"]]}],["usa spec brand new non active",{"entities":[[0,8,"NATION"]]}]]}

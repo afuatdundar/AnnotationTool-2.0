@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["wtb\r",{"entities":[]}],["14 pro max 256 tra\r",{"entities":[[0,10,"PROD"],[11,14,"SPEC"],[15,18,"NATION"]]}],["purple\r",{"entities":[[0,6,"COLOR"]]}],["14 pro max 256 china\r",{"entities":[[0,10,"PROD"],[11,14,"SPEC"],[15,20,"NATION"]]}],["purple",{"entities":[[0,6,"COLOR"]]}]]}

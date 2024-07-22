@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[[".. selling.\r",{"entities":[]}],["preeboking.\r",{"entities":[]}],["saturday.\r",{"entities":[]}],["m34 6/128\r",{"entities":[[0,3,"PROD"],[4,9,"SPEC"]]}],["fresh seal box\r",{"entities":[]}],["mix color\r",{"entities":[[0,9,"COLOR"]]}],["indin spec..",{"entities":[[0,12,"NATION"]]}]]}

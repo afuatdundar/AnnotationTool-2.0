@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["w t b\r",{"entities":[]}],["redmi note 12 pro plus 256/12 ch\r",{"entities":[[0,22,"PROD"],[23,29,"SPEC"],[30,32,"NATION"]]}],["redmi note 12 pro plus 256/8 ch",{"entities":[[0,22,"PROD"],[23,28,"SPEC"],[29,31,"NATION"]]}]]}

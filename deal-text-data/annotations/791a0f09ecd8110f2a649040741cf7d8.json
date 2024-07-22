@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["i m looking for new apple products with a european version.\r",{"entities":[[20,25,"PROD"],[42,50,"NATION"]]}],["do you have any or do you know someone who sells them in large quantities",{"entities":[]}]]}

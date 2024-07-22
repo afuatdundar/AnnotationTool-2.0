@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["wts\r",{"entities":[]}],["motorola razer 40 ultra 12/512 china specs\r",{"entities":[[0,23,"PROD"],[24,30,"SPEC"],[31,42,"NATION"]]}],["black\r",{"entities":[[0,5,"COLOR"]]}],["red",{"entities":[[0,3,"COLOR"]]}]]}

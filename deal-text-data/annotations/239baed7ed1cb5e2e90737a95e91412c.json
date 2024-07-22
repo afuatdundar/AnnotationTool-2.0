@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["wtb want to buy\r",{"entities":[]}],["t110 black\r",{"entities":[[0,4,"PROD"],[5,10,"COLOR"]]}],["t110 blue\r",{"entities":[[0,4,"PROD"],[5,9,"COLOR"]]}],["t110 white\r",{"entities":[[0,4,"PROD"],[5,10,"COLOR"]]}],["confirmed order",{"entities":[]}]]}

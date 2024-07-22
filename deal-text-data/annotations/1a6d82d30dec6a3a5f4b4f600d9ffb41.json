@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["wts................\r",{"entities":[]}],["apple pencil 2\r",{"entities":[[0,14,"PROD"]]}],["usa us\r",{"entities":[[0,6,"NATION"]]}],["ready to local now\r",{"entities":[]}],["with best price",{"entities":[]}]]}

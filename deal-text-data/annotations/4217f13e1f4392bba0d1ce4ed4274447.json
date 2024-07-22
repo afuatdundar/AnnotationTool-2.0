@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["laptop acer aspire 7 a715-43g-r8zw nh.qhdep.002 / r55625u / 16g / 512gs / rtx3050 / dos\r",{"entities":[[0,20,"PROD"],[21,34,"PN"],[50,57,"PN"],[60,87,"SPEC"]]}],["280 pcs\r",{"entities":[[0,7,"QTY"]]}],["569 usd",{"entities":[[0,7,"PRICE"]]}]]}

@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["wtb\r",{"entities":[]}],["redmi 12 8/256 100 pc\r",{"entities":[[0,8,"PROD"],[9,14,"SPEC"],[15,21,"QTY"]]}],["a2+ 3/64 100 pc",{"entities":[[0,3,"PROD"],[4,8,"SPEC"],[9,15,"QTY"]]}]]}

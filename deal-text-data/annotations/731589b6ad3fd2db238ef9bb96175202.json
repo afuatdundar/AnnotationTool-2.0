@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["realme c55 6+128g eu black green 1\r",{"entities":[[0,10,"PROD"],[11,17,"SPEC"],[18,20,"NATION"],[21,32,"COLOR"],[33,34,"QTY"]]}],["realme c55 8+256g eu black green",{"entities":[[0,10,"PROD"],[11,17,"SPEC"],[18,20,"NATION"],[21,32,"COLOR"]]}]]}

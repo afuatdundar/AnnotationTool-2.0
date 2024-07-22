@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["wtb\r",{"entities":[]}],["non active china\r",{"entities":[[11,16,"NATION"]]}],["iphone 14 pro 256\r",{"entities":[[0,13,"PROD"],[14,17,"SPEC"]]}],["blk 2",{"entities":[[0,3,"COLOR"],[4,5,"QTY"]]}]]}

@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["wts\r",{"entities":[]}],["1 pes\r",{"entities":[[0,5,"QTY"]]}],["14 pro maxx 128 black\r",{"entities":[[0,11,"PROD"],[12,15,"SPEC"],[16,21,"COLOR"]]}],["unlock non active\r",{"entities":[]}],["usa spec\r",{"entities":[[0,8,"NATION"]]}],["ready",{"entities":[]}]]}

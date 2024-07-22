@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["new shipment\r",{"entities":[]}],["hp 850g2\r",{"entities":[[0,2,"PROD"],[3,8,"PN"]]}],["i5/5th\r",{"entities":[[0,6,"SPEC"]]}],["8/500\r",{"entities":[[0,5,"SPEC"]]}],["price",{"entities":[]}]]}

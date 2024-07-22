@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["weltel telecom\r",{"entities":[]}],["usa us spec\r",{"entities":[[0,11,"NATION"]]}],["master carton seal\r",{"entities":[]}],["google pixel 7a 5g 128gb\r",{"entities":[[0,15,"PROD"],[16,24,"SPEC"]]}],["charcoal carbon\r",{"entities":[]}],["ready stock",{"entities":[]}]]}

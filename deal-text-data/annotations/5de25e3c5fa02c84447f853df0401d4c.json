@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["wtb\r",{"entities":[]}],["local or fz\r",{"entities":[]}],["13pro max 256gb\r",{"entities":[[0,9,"PROD"],[10,15,"SPEC"]]}],["a+ us usa\r",{"entities":[[3,9,"NATION"]]}],["30pis mix",{"entities":[[0,5,"QTY"],[6,9,"COLOR"]]}]]}

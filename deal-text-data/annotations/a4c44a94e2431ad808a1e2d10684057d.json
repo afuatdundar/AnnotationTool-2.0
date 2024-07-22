@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["wts\r",{"entities":[]}],["ip 13pm 256 tested price good\r",{"entities":[[0,7,"PROD"],[8,11,"SPEC"]]}],["ip 12pm 256 a++ price\r",{"entities":[[0,7,"PROD"],[8,21,"SPEC"]]}],["ip 11pm 256 a++ all gold",{"entities":[[0,7,"PROD"],[8,15,"SPEC"]]}]]}

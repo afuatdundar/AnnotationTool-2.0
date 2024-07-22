@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["wts\r",{"entities":[]}],["xiaomi mi tv stick 4k eu 6971408155620\r",{"entities":[[0,21,"PROD"],[22,24,"NATION"],[25,38,"UPC"]]}],["500 pcs+\r",{"entities":[[0,8,"QTY"]]}],["37$\r",{"entities":[[0,3,"PRICE"]]}],["eta 1 week",{"entities":[]}]]}

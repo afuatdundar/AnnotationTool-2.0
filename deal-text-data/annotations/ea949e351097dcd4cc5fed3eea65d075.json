@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["i need\r",{"entities":[]}],["laptop ram\r",{"entities":[[0,10,"PROD"]]}],["8gb pc4 3200aa\r",{"entities":[[0,14,"SPEC"]]}],["quantity",{"entities":[]}]]}

@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["i need\r",{"entities":[]}],["mgtf3 1 unit\r",{"entities":[[0,5,"PN"],[6,12,"QTY"]]}],["iphone 14 por max 512gb purple\r",{"entities":[[0,17,"PROD"],[18,23,"SPEC"],[24,30,"COLOR"]]}],["offer me best price",{"entities":[]}]]}

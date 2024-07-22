@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["wts\r",{"entities":[]}],["apple 12/128\r",{"entities":[[0,8,"PROD"],[9,12,"SPEC"]]}],["apple 13/256\r",{"entities":[[0,8,"PROD"],[8,12,"SPEC"]]}],["apple 14/256\r",{"entities":[[0,8,"PROD"],[9,12,"SPEC"]]}],["sort qty\r",{"entities":[]}],["ready stock",{"entities":[]}]]}

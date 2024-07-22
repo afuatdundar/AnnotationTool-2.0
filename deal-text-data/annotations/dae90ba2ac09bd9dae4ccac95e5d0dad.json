@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["wts s23ultra 8/256gb ready\r",{"entities":[[4,12,"PROD"],[13,20,"SPEC"]]}],["black\r",{"entities":[[0,5,"COLOR"]]}],["green\r",{"entities":[[0,5,"COLOR"]]}],["lavander",{"entities":[[0,8,"COLOR"]]}]]}

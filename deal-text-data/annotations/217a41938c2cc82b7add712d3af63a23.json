@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["wtb\r",{"entities":[]}],["s23 ultra /512 200\r",{"entities":[[0,9,"PROD"],[10,14,"SPEC"],[15,18,"QTY"]]}],["z fold 5/512 50\r",{"entities":[[0,6,"PROD"],[7,12,"SPEC"],[13,15,"QTY"]]}],["need in dafza",{"entities":[]}]]}

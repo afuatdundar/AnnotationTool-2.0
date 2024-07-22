@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["wts\r",{"entities":[]}],["s23 ultra 12/256 -250pcs\r",{"entities":[[0,9,"PROD"],[10,16,"SPEC"],[17,24,"QTY"]]}],["black colour\r",{"entities":[[0,12,"COLOR"]]}],["tra spec\r",{"entities":[[0,8,"NATION"]]}],["delivery on friday/saturday",{"entities":[]}]]}

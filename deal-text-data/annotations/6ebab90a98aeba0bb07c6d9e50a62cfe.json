@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["wts\r",{"entities":[]}],["15promax ....tra\r",{"entities":[[0,8,"PROD"],[12,16,"NATION"]]}],["256gb .......... 3pcs\r",{"entities":[[0,5,"SPEC"],[17,21,"QTY"]]}],["natural titanium",{"entities":[[0,16,"COLOR"]]}]]}

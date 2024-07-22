@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["wts\r",{"entities":[]}],["iphone 15/128\r",{"entities":[[0,9,"PROD"],[10,13,"SPEC"]]}],["japan\r",{"entities":[[0,5,"NATION"]]}],["booking with deposit",{"entities":[]}]]}

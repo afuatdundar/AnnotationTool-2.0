@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["want to buy\r",{"entities":[]}],["i phone 15 pro 256gb\r",{"entities":[[0,14,"PROD"],[15,20,"SPEC"]]}],["20.pecs\r",{"entities":[[0,7,"QTY"]]}],["urgent neend\r",{"entities":[]}],["give me best price",{"entities":[]}]]}

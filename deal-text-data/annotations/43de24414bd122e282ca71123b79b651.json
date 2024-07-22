@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["iphone 12 64gb\r",{"entities":[[0,9,"PROD"],[10,14,"SPEC"]]}],["iphone 12 128gb\r",{"entities":[[0,9,"PROD"],[10,15,"SPEC"]]}],["mix color. vieatnam spec.\r",{"entities":[[0,10,"COLOR"],[11,24,"NATION"]]}],["selling.",{"entities":[]}]]}

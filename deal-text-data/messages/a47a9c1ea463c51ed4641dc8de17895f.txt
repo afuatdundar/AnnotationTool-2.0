@@ -1,0 +1,77 @@
+⭕　9/6　PM		in japan	
+		
+iPhone 14 Pro 128GB	Purple	10
+iPhone 14 Pro 128GB	Gold	3
+iPhone 14 Pro 128GB	Black	10
+iPhone 14 Pro 128GB	White	1
+		
+iPhone 14 Pro 256GB	Purple	73
+iPhone 14 Pro 256GB	Gold	2
+iPhone 14 Pro 256GB	Black	5
+iPhone 14 Pro 256GB	White	3
+		
+iPhone 14 Pro Max 128GB	Purple	2
+		
+iPhone 14 Pro Max 256GB	Purple	30
+iPhone 14 Pro Max 256GB	Black	12
+		
+iPhone 14 Pro Max 512GB	Black	1
+		
+iPhone 14 Pro Max 1TB	Black	2
+		
+iPhone 14 128GB	Black	4
+iPhone 14 128GB	Blue c	2
+iPhone 14 128GB	Purple	1
+iPhone 14 128GB	Yellow	55
+		
+iPhone 14 256GB	Yellow	1
+		
+iPhone 14 plus 256GB	BK	1
+		
+iPhone 13  128GB	Black	8
+iPhone 13  128GB	Blue 	2
+iPhone 13  128GB	Red	        1
+		
+iPhone 13  256GB	Black	3
+iPhone 13  256GB	Blue	        2
+		
+iPhone 13 mini 128GB	Black	1
+iPhone 13 mini 128GB	White	1
+		
+iPhone 13 mini 256GB	Blue	1
+		
+iphone12 128GB	BL    	1
+		
+2022/iPhoneSE（3rd）64GB	Black	15
+2022/iPhoneSE（3rd）64GB	White	1
+		
+2022/iPhoneSE（3rd）128GB	Black	86
+2022/iPhoneSE（3rd）128GB	White	20
+2022/iPhoneSE（3rd）128GB	Red  	2
+		
+2022/iPhoneSE（3rd）256GB	Black	1
+		
+open box actived iPhone 14 Pro 128GB	White	1
+		
+open box actived iPhone 14 Pro 256GB	Purple	1
+open box actived iPhone 14 Pro 256GB	Gold	2
+		
+open box actived iPhone 13 128GB	Black	2
+		
+Google Pixel 7a 128GB	Charcoal	18
+Google Pixel 7a 128GB	Snow	11
+Google Pixel 7a 128GB	Sea	        14
+		
+Google Pixel 7 128GB	Lemongrass	3
+Google Pixel 7 128GB	Obsidian	        4
+Google Pixel 7 128GB	Snow	        4
+		
+Google Pixel 7 Pro 128GB	Snow	1
+		
+Google Pixel 7 Pro 256GB	Snow	1
+		
+Google Pixel6a 128GB 5G	Charcoal	23
+Google Pixel6a 128GB 5G	Chalk	15
+Google Pixel6a 128GB 5G	Sage	5
+		
+Google Pixel Fold	bk	1

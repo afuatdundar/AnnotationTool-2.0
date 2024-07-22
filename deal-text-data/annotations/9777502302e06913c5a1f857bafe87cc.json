@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["500gb slim laptop hdd\r",{"entities":[[0,5,"SPEC"],[6,21,"PROD"]]}],["500gb fat laptop hdd\r",{"entities":[[0,5,"SPEC"],[6,20,"PROD"]]}],["need quantity",{"entities":[]}]]}

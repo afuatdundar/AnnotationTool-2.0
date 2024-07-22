@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["ready stock\r",{"entities":[]}],["freezone\r",{"entities":[]}],["za spec/non active hk\r",{"entities":[[0,11,"NATION"]]}],["14 pro max 256gb\r",{"entities":[[0,10,"PROD"],[11,16,"SPEC"]]}],["purple",{"entities":[[0,6,"COLOR"]]}]]}

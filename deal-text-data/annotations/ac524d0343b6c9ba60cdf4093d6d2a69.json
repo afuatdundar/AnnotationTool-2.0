@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["wts\r",{"entities":[]}],["iphone 14 128 100 units\r",{"entities":[[0,9,"PROD"],[10,13,"SPEC"],[14,17,"QTY"]]}],["starlight\r",{"entities":[[0,9,"COLOR"]]}],["japan spec jp",{"entities":[[0,13,"NATION"]]}]]}

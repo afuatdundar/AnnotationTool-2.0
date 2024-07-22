@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["wts\r",{"entities":[]}],["13 128 tra\r",{"entities":[[0,2,"PROD"],[3,6,"SPEC"],[7,10,"NATION"]]}],["starlight\r",{"entities":[[0,9,"COLOR"]]}],["5 clk delivery",{"entities":[]}]]}

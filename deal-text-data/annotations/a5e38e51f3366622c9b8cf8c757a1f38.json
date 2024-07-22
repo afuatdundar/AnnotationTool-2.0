@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["wtb\r",{"entities":[]}],["1000x mqly3zm/a apple pencil 1\r",{"entities":[[0,5,"QTY"],[6,15,"PN"],[16,30,"PROD"]]}],["2000x mu8f2zm/a - apple pencil 2",{"entities":[[0,5,"QTY"],[6,15,"PN"],[18,32,"PROD"]]}]]}

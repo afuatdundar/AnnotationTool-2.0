@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["wts global\r",{"entities":[[4,10,"NATION"]]}],["12c 6/128\r",{"entities":[[0,3,"PROD"],[4,9,"SPEC"]]}],["blue\r",{"entities":[[0,4,"COLOR"]]}],["black\r",{"entities":[[0,5,"COLOR"]]}],["ready fze",{"entities":[[6,9,"LOC"]]}]]}

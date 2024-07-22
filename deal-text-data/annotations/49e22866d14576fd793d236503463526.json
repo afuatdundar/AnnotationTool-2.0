@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["need 25pc\r",{"entities":[[5,9,"QTY"]]}],["hp 840 g5\r",{"entities":[[0,9,"PROD"]]}],["ci5 8th generation rum 16gb hdd 512ssd cam adpar\r",{"entities":[[0,48,"SPEC"]]}],["aed",{"entities":[[0,3,"NATION"]]}]]}

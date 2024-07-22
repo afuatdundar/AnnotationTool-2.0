@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["wts fze\r",{"entities":[[4,7,"NATION"]]}],["samsung a24 4/128 arabic\r",{"entities":[[0,11,"PROD"],[12,17,"SPEC"],[18,24,"NATION"]]}],["black more black\r",{"entities":[[0,5,"COLOR"],[11,16,"COLOR"]]}],["silver",{"entities":[[0,6,"COLOR"]]}]]}

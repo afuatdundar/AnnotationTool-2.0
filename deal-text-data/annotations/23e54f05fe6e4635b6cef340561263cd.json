@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["wtb\r",{"entities":[]}],["dell 7410 i5-10th\r",{"entities":[[0,4,"PROD"],[5,9,"PN"],[10,17,"SPEC"]]}],["8-256",{"entities":[[0,5,"SPEC"]]}]]}

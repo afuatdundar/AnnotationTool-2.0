@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["want to buy\r",{"entities":[]}],["14 pro max 256 gb purple\r",{"entities":[[0,10,"PROD"],[11,17,"SPEC"],[18,24,"COLOR"]]}],["hong kong hk spec\r",{"entities":[[0,12,"NATION"]]}],["brand new non active",{"entities":[]}]]}

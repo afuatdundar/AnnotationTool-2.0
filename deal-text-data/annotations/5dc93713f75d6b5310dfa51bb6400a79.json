@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["lexar\r",{"entities":[[0,5,"PROD"]]}],["nm610 2100mb/s pcie m.2 nvme ssd\r",{"entities":[[0,5,"PN"],[6,32,"PROD"]]}],["storage 500gb\r",{"entities":[[8,13,"SPEC"]]}],["warranty 2-years\r",{"entities":[]}],["special price\r",{"entities":[]}],["al-kousar glamour",{"entities":[]}]]}

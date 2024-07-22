@@ -1,0 +1,19 @@
+Wts... 
+
+*Samsung*
+M13 4/64
+
+M04 464
+
+F13 4/64
+
+F04 4/64
+
+*redmi*
+12 5g 8/256
+
+12 4g 4/128
+
+All Mix color
+Ready fze 
+Indian specs...

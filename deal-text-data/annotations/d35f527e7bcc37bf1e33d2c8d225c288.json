@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["wts,\r",{"entities":[]}],["ssd exp brand\r",{"entities":[[0,3,"PROD"]]}],["2.5 , m.2 256 gb , 512 gb\r",{"entities":[[0,25,"SPEC"]]}],["available in good quantity\r",{"entities":[]}],["price",{"entities":[]}]]}

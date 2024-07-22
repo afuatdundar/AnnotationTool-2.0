@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["wts\r",{"entities":[]}],["350 x iphone 12 64g a grade used us spec\r",{"entities":[[0,3,"QTY"],[6,15,"PROD"],[16,19,"SPEC"],[33,35,"NATION"]]}],["stock is in hong kong\r",{"entities":[[12,21,"LOC"]]}],["only phone no box accessory",{"entities":[]}]]}

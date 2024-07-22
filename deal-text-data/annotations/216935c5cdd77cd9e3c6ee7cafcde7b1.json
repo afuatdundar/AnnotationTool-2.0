@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["wtb fze\r",{"entities":[[4,7,"NATION"]]}],["samsung a14 4+128gb 5g\r",{"entities":[[0,11,"PROD"],[12,22,"SPEC"]]}],["mix 300\r",{"entities":[[0,3,"COLOR"],[4,7,"QTY"]]}],["confirm order",{"entities":[]}]]}

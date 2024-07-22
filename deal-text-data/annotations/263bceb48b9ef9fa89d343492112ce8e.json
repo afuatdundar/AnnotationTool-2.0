@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["want to buy\r",{"entities":[]}],["apple as is / grade a stock, eu spec only.\r",{"entities":[[0,5,"PROD"],[29,36,"NATION"]]}],["apple iphone 14 pro 128 gb a2890 x 350",{"entities":[[0,19,"PROD"],[20,26,"SPEC"],[27,32,"PN"],[35,38,"QTY"]]}]]}

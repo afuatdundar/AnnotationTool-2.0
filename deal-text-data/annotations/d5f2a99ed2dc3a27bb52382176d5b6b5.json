@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["want to buy\r",{"entities":[]}],["apple pencil 2 2nd gen\r",{"entities":[[0,22,"PROD"]]}],["model mu8f2am/a\r",{"entities":[[6,15,"PN"]]}],["upc 190198893277\r",{"entities":[[4,16,"UPC"]]}],["please offer me...",{"entities":[]}]]}

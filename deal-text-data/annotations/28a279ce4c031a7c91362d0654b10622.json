@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["wtb\r",{"entities":[]}],["hp 840 g3\r",{"entities":[[0,9,"PROD"]]}],["ci5, 6th\r",{"entities":[[0,8,"SPEC"]]}],["need 100 units",{"entities":[[5,14,"QTY"]]}]]}

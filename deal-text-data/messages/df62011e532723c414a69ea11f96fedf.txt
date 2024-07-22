@@ -1,0 +1,16 @@
+WTB 
+1 sim need any spec 
+14 pro max 128 50
+14 pro max 256 50
+14 128 black  50
+14 128 white   50
+14 128 pink 50
+14 128 yellow 20
+13 128 black  50
+13  128 white  50
+
+11 128 black 50
+11 128 white 50
+
+11 64 black 50
+11 64 white 50

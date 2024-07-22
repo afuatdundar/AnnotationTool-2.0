@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["selling\r",{"entities":[]}],["samsung tra\r",{"entities":[[0,7,"PROD"],[8,11,"NATION"]]}],["s23 ultra 12/256 gb\r",{"entities":[[0,9,"PROD"],[10,19,"SPEC"]]}],["cream colour\r",{"entities":[[0,12,"COLOR"]]}],["ready in local",{"entities":[]}]]}

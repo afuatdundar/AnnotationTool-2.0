@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["wts\r",{"entities":[]}],["global eu\r",{"entities":[[0,9,"NATION"]]}],["a2+ 3/64gb\r",{"entities":[[0,3,"PROD"],[4,10,"SPEC"]]}],["500pcs",{"entities":[[0,6,"PRICE"]]}]]}

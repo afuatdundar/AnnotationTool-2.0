@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["iphone,ipad,tablets,macbook,hp,dell notebooks,memory on auction\r",{"entities":[[0,6,"PROD"],[7,11,"PROD"],[12,19,"PROD"],[20,27,"PROD"],[28,30,"PROD"],[31,45,"PROD"],[46,52,"PROD"]]}],["please bid your price.",{"entities":[]}]]}

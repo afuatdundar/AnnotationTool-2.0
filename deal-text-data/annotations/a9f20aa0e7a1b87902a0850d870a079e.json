@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["wtb hong kong\r",{"entities":[[4,13,"NATION"]]}],["15 pro max 256gb\r",{"entities":[[0,10,"PROD"],[11,16,"SPEC"]]}],["natural 50 pcs\r",{"entities":[[0,7,"COLOR"],[8,14,"QTY"]]}],["conformed order",{"entities":[]}]]}

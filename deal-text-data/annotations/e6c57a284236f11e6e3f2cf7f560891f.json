@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["wts\r",{"entities":[]}],["s23 ultra 12/256 blk green tra\r",{"entities":[[0,9,"PROD"],[10,16,"SPEC"],[17,26,"COLOR"],[27,30,"NATION"]]}],["s23 ultra 12/256 blk arabic\r",{"entities":[[0,9,"PROD"],[10,16,"SPEC"],[17,20,"COLOR"],[21,27,"NATION"]]}],["best price",{"entities":[]}]]}

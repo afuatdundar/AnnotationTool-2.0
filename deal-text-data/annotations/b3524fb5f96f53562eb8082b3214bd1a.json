@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["wtb\r",{"entities":[]}],["hk - active\r",{"entities":[[0,2,"NATION"]]}],["15pro max 256gb\r",{"entities":[[0,9,"PROD"],[10,15,"SPEC"]]}],["natural",{"entities":[[0,7,"COLOR"]]}]]}

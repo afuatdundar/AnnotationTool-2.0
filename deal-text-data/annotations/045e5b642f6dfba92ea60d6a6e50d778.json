@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["core i5 12400 processes price 46500\r",{"entities":[[0,23,"PROD"],[30,35,"PRICE"]]}],["core i5 8500 processes\r",{"entities":[[0,22,"PROD"]]}],["price 20500\r",{"entities":[[6,11,"PRICE"]]}],["available\r",{"entities":[]}],["03330481904",{"entities":[]}]]}

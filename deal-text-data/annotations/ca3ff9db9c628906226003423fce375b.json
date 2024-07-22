@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["wts\r",{"entities":[]}],["mgn63 ab/a ae\r",{"entities":[[0,10,"PN"],[11,13,"NATION"]]}],["master carton\r",{"entities":[]}],["70pcs . 2870 dhirham\r",{"entities":[[0,5,"QTY"],[8,20,"PRICE"]]}],["delivery 8pm.",{"entities":[]}]]}

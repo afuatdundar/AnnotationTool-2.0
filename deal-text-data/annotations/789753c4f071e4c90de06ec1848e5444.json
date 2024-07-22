@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["wtb\r",{"entities":[]}],["series 9 45 mm\r",{"entities":[[0,8,"PROD"],[9,14,"SPEC"]]}],["midnight 70 units\r",{"entities":[[0,8,"COLOR"],[9,17,"QTY"]]}],["starlight 30 units",{"entities":[[0,9,"COLOR"],[10,18,"QTY"]]}]]}

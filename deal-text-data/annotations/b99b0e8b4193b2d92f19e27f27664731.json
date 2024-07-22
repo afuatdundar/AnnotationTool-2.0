@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["he has 720 pencil 2\r",{"entities":[[7,10,"QTY"],[11,19,"PROD"]]}],["asking for $93.00\r",{"entities":[[11,17,"PRICE"]]}],["vendor stock will take 1 day to come to me.",{"entities":[]}]]}

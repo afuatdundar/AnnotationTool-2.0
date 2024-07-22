@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["wts in\r",{"entities":[[4,6,"NATION"]]}],["pre book\r",{"entities":[]}],["apple non active\r",{"entities":[[0,5,"PROD"]]}],["13/128\r",{"entities":[[0,2,"PROD"],[3,6,"SPEC"]]}],["14/128",{"entities":[[0,2,"PROD"],[3,6,"SPEC"]]}]]}

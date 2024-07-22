@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["wts\r",{"entities":[]}],["fze\r",{"entities":[[0,3,"NATION"]]}],["s22 ultra 12/256gb-100pcs\r",{"entities":[[0,9,"PROD"],[10,18,"SPEC"],[19,25,"QTY"]]}],["green arabic- vietnam",{"entities":[[0,5,"COLOR"],[6,21,"NATION"]]}]]}

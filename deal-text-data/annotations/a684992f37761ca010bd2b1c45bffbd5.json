@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["wts active ae tra\r",{"entities":[[11,17,"NATION"]]}],["15 pro 256gb black\r",{"entities":[[0,6,"PROD"],[7,12,"SPEC"],[13,18,"COLOR"]]}],["43",{"entities":[[0,2,"QTY"]]}]]}

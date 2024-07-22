@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["1000pcs airpods 3 mpny3zm/a\r",{"entities":[[0,7,"QTY"],[8,17,"PROD"],[18,27,"PN"]]}],["ean 194253324171 mc sealed",{"entities":[[4,16,"UPC"]]}]]}

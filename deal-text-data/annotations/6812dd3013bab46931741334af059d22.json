@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["wtb\r",{"entities":[]}],["japan tra ksa\r",{"entities":[[0,13,"NATION"]]}],["14 pro max 256gb\r",{"entities":[[0,10,"PROD"],[11,16,"SPEC"]]}],["50 purple",{"entities":[[0,2,"QTY"],[3,9,"COLOR"]]}]]}

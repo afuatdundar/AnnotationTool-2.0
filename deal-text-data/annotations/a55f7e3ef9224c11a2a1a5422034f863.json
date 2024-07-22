@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["wts apple airpods- ready in dubai\r",{"entities":[[4,18,"PROD"],[28,33,"LOC"]]}],["880 x airpods pro 1 mlwk3zm/a\r",{"entities":[[0,3,"QTY"],[6,19,"PROD"],[20,29,"PN"]]}],["580 x airpods 3 mme73zm/a",{"entities":[[0,3,"QTY"],[6,15,"PROD"],[16,25,"PN"]]}]]}

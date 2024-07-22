@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["wts ready stock in fze\r",{"entities":[[19,22,"LOC"]]}],["a145 4/128gb tra\r",{"entities":[[0,4,"PROD"],[5,16,"SPEC"]]}],["silver\r",{"entities":[[0,6,"COLOR"]]}],["black\r",{"entities":[[0,5,"COLOR"]]}],["green",{"entities":[[0,5,"COLOR"]]}]]}

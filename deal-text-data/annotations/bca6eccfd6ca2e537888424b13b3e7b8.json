@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["wts\r",{"entities":[]}],["12 pro max 128gb\r",{"entities":[[0,10,"PROD"],[11,16,"SPEC"]]}],["bs japan jp\r",{"entities":[[3,11,"LOC"]]}],["12 pro 256gb\r",{"entities":[[0,6,"PROD"],[7,12,"SPEC"]]}],["softbank japan jp",{"entities":[[9,17,"LOC"]]}]]}

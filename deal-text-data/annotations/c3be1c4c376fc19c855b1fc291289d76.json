@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["wts\r",{"entities":[]}],["lpad 9 64 wifi\r",{"entities":[[0,6,"PROD"],[7,14,"SPEC"]]}],["silver\r",{"entities":[[0,6,"COLOR"]]}],["grey\r",{"entities":[[0,4,"COLOR"]]}],["ready call",{"entities":[]}]]}

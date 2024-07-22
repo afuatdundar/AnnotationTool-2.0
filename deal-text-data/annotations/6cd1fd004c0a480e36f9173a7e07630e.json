@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["wts.\r",{"entities":[]}],["mb-mc256ka/eu\r",{"entities":[[0,10,"PN"],[11,13,"NATION"]]}],["mb-mc64ka/eu\r",{"entities":[[0,9,"PN"],[10,12,"NATION"]]}],["mb-mc128ka/eu\r",{"entities":[[0,10,"PN"],[11,13,"NATION"]]}],["mb-mc512ka/eu",{"entities":[[0,10,"PN"],[11,13,"NATION"]]}]]}

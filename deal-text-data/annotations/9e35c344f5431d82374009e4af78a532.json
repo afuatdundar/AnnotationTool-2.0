@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[null,null,["intel 12700k\r",{"entities":[[0,12,"PROD"]]}],["intel 12700kf\r",{"entities":[[0,13,"PROD"]]}],["intel 13700k\r",{"entities":[[0,12,"PROD"]]}],["processors available",{"entities":[[0,10,"PROD"]]}]]}

@@ -1,0 +1,8 @@
+NVIDIA JETSON ORIN NANO DEVELOPER KIT
+
+👉1024- core NVIDIA Ampere architecture GPU With 32 Tensor cores
+👉6-core Arm Cortex- A78AE v8. 2 64-bit CPU
+👉 8GB 128-bit LPDDR5
+
+
+♠PACE IT MUMBAI♠

@@ -1,0 +1,13 @@
+consoles :
+
+Sony PS5 Blu Ray Edition CFI-1216A
+ean: 711719423997
+1000 pcs
+395 euro
+MOQ: 64 pcs
+---
+Microsoft Xbox Series X 1TB Black
+EAN: 889842640816
+300 pcs
+389 euro
+MOQ: 40 pcs

@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["want to buy\r",{"entities":[]}],["256 gb ssd 2.5 500pcs\r",{"entities":[[0,14,"SPEC"],[15,21,"QTY"]]}],["8gb ddr4 ram laptop 500pcs",{"entities":[[0,19,"SPEC"],[20,26,"QTY"]]}]]}

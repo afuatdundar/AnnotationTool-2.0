@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["philips fabric shaver gc026/00\r",{"entities":[[0,21,"PROD"],[22,30,"PN"]]}],["ean 8710103660774\r",{"entities":[[4,17,"UPC"]]}],["1000 pcs stock 15$ landed jfk\r",{"entities":[[0,8,"QTY"],[15,18,"PRICE"]]}],["eta 5 days to vienna",{"entities":[]}]]}

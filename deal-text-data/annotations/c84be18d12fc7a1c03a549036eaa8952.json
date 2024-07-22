@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["w t b\r",{"entities":[]}],["iphone 15 pro 128gb\r",{"entities":[[0,13,"PROD"],[14,19,"SPEC"]]}],["white 1\r",{"entities":[[0,5,"COLOR"],[6,7,"QTY"]]}],["japan spec non\r",{"entities":[[0,10,"NATION"]]}],["argent need.",{"entities":[]}]]}

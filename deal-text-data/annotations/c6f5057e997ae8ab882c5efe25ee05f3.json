@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["want to buy\r",{"entities":[]}],["hp 640 g1\r",{"entities":[[0,9,"PROD"]]}],["i5-4th.\r",{"entities":[[0,7,"SPEC"]]}],["40 pcs",{"entities":[[0,6,"QTY"]]}]]}

@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["wtb\r",{"entities":[]}],["ipad air 5. 64 wi-fi\r",{"entities":[[0,11,"PROD"],[12,20,"SPEC"]]}],["1 blu\r",{"entities":[[0,1,"QTY"],[2,5,"COLOR"]]}],["1 purple",{"entities":[[0,1,"QTY"],[2,8,"COLOR"]]}]]}

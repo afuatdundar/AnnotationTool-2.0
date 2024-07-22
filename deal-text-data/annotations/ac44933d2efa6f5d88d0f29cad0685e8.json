@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["wtbb\r",{"entities":[]}],["13 pro max 256 none active\r",{"entities":[[0,10,"PROD"],[10,15,"SPEC"]]}],["mix colour\r",{"entities":[[0,10,"COLOR"]]}],["any spec",{"entities":[[0,8,"NATION"]]}]]}

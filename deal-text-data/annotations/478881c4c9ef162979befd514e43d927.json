@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["wtb\r",{"entities":[]}],["14 pro max japan non active jp\r",{"entities":[[0,10,"PROD"],[11,16,"NATION"],[28,30,"NATION"]]}],["gold colour\r",{"entities":[[0,4,"COLOR"]]}],["7 piece confirm",{"entities":[[0,1,"QTY"]]}]]}

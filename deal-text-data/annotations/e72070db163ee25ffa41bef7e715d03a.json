@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["wtb\r",{"entities":[]}],["13 pro max 256gb\r",{"entities":[[0,10,"PROD"],[11,16,"SPEC"]]}],["any color\r",{"entities":[[0,9,"COLOR"]]}],["any specs\r",{"entities":[[0,9,"NATION"]]}],["non-active\r",{"entities":[]}],["brand new\r",{"entities":[]}],["10 pcs",{"entities":[[0,6,"QTY"]]}]]}

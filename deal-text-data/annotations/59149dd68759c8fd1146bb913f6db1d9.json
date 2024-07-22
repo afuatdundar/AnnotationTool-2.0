@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["wtb\r",{"entities":[]}],["non active\r",{"entities":[]}],["13 128gb india in spec\r",{"entities":[[0,2,"PROD"],[3,8,"SPEC"],[9,17,"NATION"]]}],["pink 10pcs\r",{"entities":[[0,4,"COLOR"],[5,10,"QTY"]]}],["confirm order",{"entities":[]}]]}

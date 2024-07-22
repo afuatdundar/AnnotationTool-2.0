@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["want to buy\r",{"entities":[]}],["s21fe 8/256\r",{"entities":[[0,5,"PROD"],[6,11,"SPEC"]]}],["latin specs.",{"entities":[[0,11,"NATION"]]}]]}

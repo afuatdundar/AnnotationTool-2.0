@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["wtb\r",{"entities":[]}],["13 128gb india/uk\r",{"entities":[[0,2,"PROD"],[3,8,"SPEC"],[9,17,"NATION"]]}],["green - 3pcs\r",{"entities":[[0,5,"COLOR"],[8,12,"QTY"]]}],["pink - 2pcs\r",{"entities":[[0,4,"COLOR"],[7,11,"QTY"]]}],["midnight- 2pcs",{"entities":[[0,9,"COLOR"],[10,14,"QTY"]]}]]}

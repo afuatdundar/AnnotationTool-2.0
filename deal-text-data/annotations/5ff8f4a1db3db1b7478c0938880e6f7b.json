@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["selling\r",{"entities":[]}],["14 pro max 128gb 36\r",{"entities":[[0,10,"PROD"],[11,16,"SPEC"],[17,19,"QTY"]]}],["black\r",{"entities":[[0,5,"COLOR"]]}],["tra non active ae\r",{"entities":[[15,17,"NATION"]]}],["ready stock",{"entities":[]}]]}

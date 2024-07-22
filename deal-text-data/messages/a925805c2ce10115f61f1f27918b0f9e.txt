@@ -1,0 +1,17 @@
+wtb
+uk/tra/sg active
+
+11-64gb
+black 5
+white 5
+
+11-128gb
+black 10
+white 5
+
+14-128gb
+black 12
+white 8
+
+14pro 128gb
+purple 10

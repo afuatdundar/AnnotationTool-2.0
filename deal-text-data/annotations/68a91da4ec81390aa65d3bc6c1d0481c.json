@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["wtb fzco\r",{"entities":[]}],["a24 4/128 400 pes\r",{"entities":[[0,3,"PROD"],[4,9,"SPEC"],[10,17,"QTY"]]}],["a14 6/128 300 pes\r",{"entities":[[0,3,"PROD"],[4,9,"SPEC"],[10,17,"QTY"]]}],["arabic spec\r",{"entities":[[0,11,"NATION"]]}],["confirm order",{"entities":[]}]]}

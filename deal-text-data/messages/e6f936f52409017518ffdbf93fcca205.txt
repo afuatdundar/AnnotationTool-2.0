@@ -1,0 +1,12 @@
+Spark10c 128 4
+Spark 10 pero 256 8
+Pop7 64 4 
+Pqp7 64 2
+Comn 20 256 8
+Spark 10 128 8
+Spark 10c 128 8
+Infnx 
+Smart 7 hd
+Semart7 plas 64 4 
+Hot 12 ply 
+Hot 20 ply

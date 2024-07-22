@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["wts in\r",{"entities":[[4,6,"NATION"]]}],["f13 64\r",{"entities":[[0,3,"PROD"],[4,6,"SPEC"]]}],["m13 64\r",{"entities":[[0,3,"PROD"],[4,6,"SPEC"]]}],["m13 128\r",{"entities":[[0,3,"PROD"],[4,7,"SPEC"]]}],["ready at fze\r",{"entities":[[9,12,"LOC"]]}],["unlocked stocks",{"entities":[]}]]}

@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["w t b\r",{"entities":[]}],["7050 i7 6 th\r",{"entities":[[0,4,"PROD"],[5,12,"SPEC"]]}],["256gb ssd 8gb rame 35pcs\r",{"entities":[[0,18,"SPEC"],[19,24,"QTY"]]}],["7070 i7 7th\r",{"entities":[[0,11,"PROD"]]}],["256 gb ssd 8gb rame. 30pcs",{"entities":[[0,20,"SPEC"],[21,26,"QTY"]]}]]}

@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["wtb\r",{"entities":[]}],["14 128gb\r",{"entities":[[0,2,"PROD"],[3,8,"SPEC"]]}],["purple\r",{"entities":[[0,6,"COLOR"]]}],["uk gb",{"entities":[[0,5,"NATION"]]}]]}

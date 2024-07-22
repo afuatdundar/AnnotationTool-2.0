@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["wts indian specs\r",{"entities":[[4,16,"NATION"]]}],["dafza delivery\r",{"entities":[]}],["apple\r",{"entities":[[0,5,"PROD"]]}],["macbook mk193-50pcs",{"entities":[[0,7,"PROD"],[8,13,"PN"],[14,19,"PRICE"]]}]]}

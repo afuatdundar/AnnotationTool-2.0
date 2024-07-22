@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["pre-booking saturday delivery in fze\r",{"entities":[[33,36,"LOC"]]}],["14 128gb india in\r",{"entities":[[0,2,"PROD"],[3,8,"SPEC"],[9,17,"NATION"]]}],["black -50\r",{"entities":[[0,5,"COLOR"],[6,9,"QTY"]]}],["blue -20",{"entities":[[0,4,"COLOR"],[5,8,"QTY"]]}]]}

@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["mario kart live home circuit tm\r",{"entities":[[0,31,"PROD"]]}],["mario set 50pcs\r",{"entities":[[0,9,"PROD"],[10,15,"QTY"]]}],["luigi set 50pcs\r",{"entities":[[0,9,"PROD"],[10,15,"QTY"]]}],["want to buy",{"entities":[]}]]}

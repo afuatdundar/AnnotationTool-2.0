@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["wants to buy\r",{"entities":[]}],["iphone 14 pro max 128\r",{"entities":[[0,17,"PROD"],[18,21,"SPEC"]]}],["black\r",{"entities":[[0,5,"COLOR"]]}],["tra",{"entities":[[0,3,"NATION"]]}]]}

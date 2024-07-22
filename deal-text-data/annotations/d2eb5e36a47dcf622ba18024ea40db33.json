@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["want to buy\r",{"entities":[]}],["pro 13\r",{"entities":[[0,6,"PROD"]]}],["m2 24gb 2tb\r",{"entities":[[0,11,"SPEC"]]}],["pro 16\r",{"entities":[[0,6,"PROD"]]}],["m1 max 64gb 8tb",{"entities":[[0,15,"SPEC"]]}]]}

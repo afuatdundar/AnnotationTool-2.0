@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["wts\r",{"entities":[]}],["mgn63 english arabic keyboard\r",{"entities":[[0,5,"PN"]]}],["tra ab/a 770$\r",{"entities":[[0,3,"NATION"],[9,13,"PRICE"]]}],["50 pcs ready dafza",{"entities":[[0,6,"QTY"],[13,18,"LOC"]]}]]}

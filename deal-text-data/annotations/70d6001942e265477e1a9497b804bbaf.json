@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["hp pavilion 24-k1305st aio-ci5-11500t-16gb-256gb ssd+1tbssd-4gb nvidia r geforce r mx350- windows11h -touch\r",{"entities":[[0,11,"PROD"],[11,22,"PN"],[23,107,"SPEC"]]}],["price 2 pcs",{"entities":[[6,11,"QTY"]]}]]}

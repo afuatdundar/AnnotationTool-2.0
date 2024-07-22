@@ -1,0 +1,6 @@
+*Wtb any spec 1sim*
+14 pro 128
+Silver-10
+
+14 pro 256
+Silver-10

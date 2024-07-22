@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["wts\r",{"entities":[]}],["samsung r510 galaxy buds 2 pro purple noeu 118 $ 92\r",{"entities":[[0,30,"PROD"],[31,42,"COLOR"],[43,48,"PRICE"],[49,51,"QTY"]]}],["samsung r510 galaxy buds 2 pro white noeu 116 $ 92",{"entities":[[0,30,"PROD"],[31,41,"COLOR"],[42,47,"PRICE"],[48,50,"QTY"]]}]]}

@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["selling\r",{"entities":[]}],["note 12 pro 8/256gb 5g china speed\r",{"entities":[[0,11,"PROD"],[12,22,"SPEC"],[23,28,"NATION"]]}],["300 black\r",{"entities":[[0,3,"QTY"],[4,9,"COLOR"]]}],["ready",{"entities":[]}]]}

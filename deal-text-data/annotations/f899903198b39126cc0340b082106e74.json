@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["wtb\r",{"entities":[]}],["a2+ 3/64 global 200ps\r",{"entities":[[0,3,"PROD"],[4,8,"SPEC"],[9,15,"NATION"],[16,21,"QTY"]]}],["note12 8/128 blue 50ps\r",{"entities":[[0,6,"PROD"],[7,12,"SPEC"],[13,17,"COLOR"],[18,22,"QTY"]]}],["give me best price",{"entities":[]}]]}

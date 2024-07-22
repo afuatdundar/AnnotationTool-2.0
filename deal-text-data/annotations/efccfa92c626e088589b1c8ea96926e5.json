@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["selling\r",{"entities":[]}],["special offer today\r",{"entities":[]}],["global spec\r",{"entities":[[0,11,"NATION"]]}],["note 12s 8+256 gb\r",{"entities":[[0,8,"PROD"],[9,17,"SPEC"]]}],["send your target",{"entities":[]}]]}

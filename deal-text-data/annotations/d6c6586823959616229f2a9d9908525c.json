@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["w.t.b\r",{"entities":[]}],["lenovo\r",{"entities":[[0,6,"PROD"]]}],["x280\r",{"entities":[[0,4,"QTY"]]}],["i7 8th\r",{"entities":[[0,6,"SPEC"]]}],["8gb 256\r",{"entities":[[0,7,"SPEC"]]}],["20 pice",{"entities":[[0,7,"QTY"]]}]]}

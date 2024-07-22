@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["wts\r",{"entities":[]}],["a54 256 vietnam vn\r",{"entities":[[0,3,"PROD"],[4,7,"SPEC"],[8,18,"NATION"]]}],["1100 price",{"entities":[[0,10,"PRICE"]]}]]}

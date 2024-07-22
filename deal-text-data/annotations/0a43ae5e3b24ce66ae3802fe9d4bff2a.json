@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["wts one plus ready stock\r",{"entities":[[4,12,"PROD"]]}],["one plus n20se 4/128 gb\r",{"entities":[[0,14,"PROD"],[15,23,"SPEC"]]}],["one plus nord 3 16/256 gb\r",{"entities":[[0,15,"PROD"],[16,25,"SPEC"]]}],["mix colors , eu",{"entities":[[0,10,"COLOR"],[13,15,"NATION"]]}]]}

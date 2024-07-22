@@ -1,0 +1,1 @@
+{"classes":["PROD","UPC","COLOR","NATION","SPEC","PN","PRICE","QTY","LOC"],"annotations":[["selling\r",{"entities":[]}],["poco x5 pro 8/256g eu non active\r",{"entities":[[0,11,"PROD"],[12,18,"SPEC"],[19,21,"NATION"]]}],["1k black\r",{"entities":[[0,2,"QTY"],[3,8,"COLOR"]]}],["friday delivery",{"entities":[]}]]}
