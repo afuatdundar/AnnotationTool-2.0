@@ -436,10 +436,16 @@ class MessageTool(QMainWindow):
     def load_files(self):
         if self.input_folder:
             all_files = sorted([f for f in os.listdir(self.input_folder) if f.endswith('.txt')])
-            self.files = [f for f in all_files if os.path.join(self.input_folder, f) not in self.read_files]
+            self.files = all_files  # Update to load all files, including read files
+
+            # Set current_index to the first unread file
+            self.current_index = 0
+            for i, file in enumerate(self.files):
+                if os.path.join(self.input_folder, file) not in self.read_files:
+                    self.current_index = i
+                    break
+
             if self.files:
-                if self.current_index == -1 or self.current_index >= len(self.files):
-                    self.current_index = 0
                 self.show_message()
                 self.update_status()
                 self.status_bar.showMessage(f"{len(self.files)} files loaded.", 5000)
@@ -1031,16 +1037,14 @@ class MessageTool(QMainWindow):
                 self.load_table_headers()
 
                 # Set table data
-            
                 self.set_table_data(state.get('table_data', []))
 
                 if self.input_folder:
-                    self.load_files()
-                if self.current_index >= 0 and self.input_folder and self.files:
-                    self.show_message()
+                    self.load_files()  # Load files after setting the state
 
                 self.processed_text.setText(processed_text)  # Load the processed text
             self.start_auto_save()  # Start auto save after loading state
+
 
 
 
