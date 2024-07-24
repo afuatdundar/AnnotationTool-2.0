@@ -475,6 +475,7 @@ class MessageTool(QMainWindow):
         else:
             self.message_text.setText("")
             self.file_path_label.setText("")
+            self.processed_text.setText("")  # Temizle
             self.update_status()
             self.update_read_button()
             self.status_bar.showMessage("No files to display.", 5000)
@@ -501,6 +502,7 @@ class MessageTool(QMainWindow):
                     self.processed_text.setText(processed_text)  # Load the processed text for the current file
             else:
                 self.set_table_data([])  # Clear the table if no data is found
+                self.processed_text.setText("")  # Clear processed text if no data is found
         # Add default row if no data is present
         if not self.table_data:
             self.add_table_row()
@@ -1273,7 +1275,7 @@ class MessageTool(QMainWindow):
         self.save_state()
 
     def start_auto_save(self):
-        self.timer.start(7000)  # Auto save every 7 seconds
+     self.timer.start(7000)  # Auto save every 7 seconds
 
 if __name__ == '__main__':
     app = QApplication(sys.argv)
