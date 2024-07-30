@@ -45,144 +45,150 @@ class MessageTool(QMainWindow):
 
 
     def initUI(self):
-            self.setWindowTitle('Message Tool')
-            self.setGeometry(100, 100, 1200, 600)
-            
-            # Set palette for the main window
-            self.setAutoFillBackground(True)
-            p = self.palette()
-            p.setColor(QPalette.Window, QColor(220,220,220))
-            self.setPalette(p)
+        self.setWindowTitle('Message Tool')
+        self.setGeometry(100, 100, 1200, 600)
+        
+        # Set palette for the main window
+        self.setAutoFillBackground(True)
+        p = self.palette()
+        p.setColor(QPalette.Window, QColor(220,220,220))
+        self.setPalette(p)
 
-            # Status bar
-            self.status_bar = QStatusBar()
-            self.setStatusBar(self.status_bar)
-            
-            # Main layout
-            main_widget = QWidget()
-            main_layout = QHBoxLayout(main_widget)
-            main_layout.setContentsMargins(20, 20, 20, 20)
-            self.setCentralWidget(main_widget)
+        # Status bar
+        self.status_bar = QStatusBar()
+        self.setStatusBar(self.status_bar)
+        
+        # Main layout
+        main_widget = QWidget()
+        main_layout = QHBoxLayout(main_widget)
+        main_layout.setContentsMargins(20, 20, 20, 20)
+        self.setCentralWidget(main_widget)
 
-            # Splitter for main layout
-            splitter = QSplitter(Qt.Horizontal)
-            main_layout.addWidget(splitter)
+        # Splitter for main layout
+        splitter = QSplitter(Qt.Horizontal)
+        main_layout.addWidget(splitter)
 
-            # Left container with layout
-            left_container = QWidget()
-            left_layout = QVBoxLayout(left_container)
-            left_layout.setSpacing(10)
-            left_layout.setContentsMargins(10, 10, 10, 10)
-            
+        # Left container with layout
+        left_container = QWidget()
+        left_layout = QVBoxLayout(left_container)
+        left_layout.setSpacing(10)
+        left_layout.setContentsMargins(10, 10, 10, 10)
+        
 
-            self.message_label = QLabel('Message Content')
-            self.message_label.setFont(QFont('Arial', 15, QFont.Bold))
-            left_layout.addWidget(self.message_label)
+        self.message_label = QLabel('Message Content')
+        self.message_label.setFont(QFont('Arial', 15, QFont.Bold))
+        left_layout.addWidget(self.message_label)
 
-            # View mode combo box
-            self.view_mode = QComboBox(self)
-            self.view_mode.addItems(["Tablo", "Processed Text"])
-            self.view_mode.currentTextChanged.connect(self.switch_view_mode)
-            left_layout.addWidget(self.view_mode)
+        # View mode combo box
+        self.view_mode = QComboBox(self)
+        self.view_mode.addItems(["Tablo", "Processed Text"])
+        self.view_mode.currentTextChanged.connect(self.switch_view_mode)
+        left_layout.addWidget(self.view_mode)
 
-            # Using QScrollArea for the message_text
-            self.message_text = QTextEdit(self)
-            self.message_text.setFont(QFont('Seoul', 14))
-            self.message_text.setStyleSheet("""
-                padding: 15px; 
-                background-color: #FFFFFF; 
-                border: 1px solid #DDDDDD; 
-                border-radius: 8px;
-                margin-bottom: 10px;
-                font-family: 'Roboto', sans-serif;
-                font-size: 18px;
-            """)
+        # Using QScrollArea for the message_text
+        self.message_text = QTextEdit(self)
+        self.message_text.setFont(QFont('Seoul', 14))
+        self.message_text.setStyleSheet("""
+            padding: 15px; 
+            background-color: #FFFFFF; 
+            border: 1px solid #DDDDDD; 
+            border-radius: 8px;
+            margin-bottom: 10px;
+            font-family: 'Roboto', sans-serif;
+            font-size: 18px;
+        """)
 
-            self.message_text.setLineWrapMode(QTextEdit.NoWrap)
-            self.message_text.setVerticalScrollBarPolicy(Qt.ScrollBarAlwaysOff)
-            self.message_text.setHorizontalScrollBarPolicy(Qt.ScrollBarAlwaysOff)
+        self.message_text.setLineWrapMode(QTextEdit.NoWrap)
+        self.message_text.setVerticalScrollBarPolicy(Qt.ScrollBarAlwaysOff)
+        self.message_text.setHorizontalScrollBarPolicy(Qt.ScrollBarAlwaysOff)
 
-            message_scroll = QScrollArea()
-            message_scroll.setWidget(self.message_text)
-            message_scroll.setWidgetResizable(True)
-            left_layout.addWidget(message_scroll)
+        message_scroll = QScrollArea()
+        message_scroll.setWidget(self.message_text)
+        message_scroll.setWidgetResizable(True)
+        left_layout.addWidget(message_scroll)
 
-            # Processed Text area (initially hidden)
-            self.processed_text = QTextEdit(self)
-            self.processed_text.setFont(QFont('Seoul', 14))
-            self.processed_text.setStyleSheet("""
-                padding: 15px; 
-                background-color: #FFFFFF; 
-                border: 1px solid #DDDDDD; 
-                border-radius: 8px;
-                margin-bottom: 10px;
-                font-family: 'Roboto', sans-serif;
-                font-size: 18px;
-            """)
-            self.processed_text.setLineWrapMode(QTextEdit.NoWrap)
-            self.processed_text.setVerticalScrollBarPolicy(Qt.ScrollBarAlwaysOff)
-            self.processed_text.setHorizontalScrollBarPolicy(Qt.ScrollBarAlwaysOff)
-            left_layout.addWidget(self.processed_text)
-            self.processed_text.hide()  # Initially hide the processed text area
-            self.processed_text.textChanged.connect(self.save_state)  # Processed Text değişikliklerini kaydetmek için
+        # Processed Text area (initially hidden)
+        self.processed_text = QTextEdit(self)
+        self.processed_text.setFont(QFont('Seoul', 14))
+        self.processed_text.setStyleSheet("""
+            padding: 15px; 
+            background-color: #FFFFFF; 
+            border: 1px solid #DDDDDD; 
+            border-radius: 8px;
+            margin-bottom: 10px;
+            font-family: 'Roboto', sans-serif;
+            font-size: 18px;
+        """)
+        self.processed_text.setLineWrapMode(QTextEdit.NoWrap)
+        self.processed_text.setVerticalScrollBarPolicy(Qt.ScrollBarAlwaysOff)
+        self.processed_text.setHorizontalScrollBarPolicy(Qt.ScrollBarAlwaysOff)
+        left_layout.addWidget(self.processed_text)
+        self.processed_text.hide()  # Initially hide the processed text area
+        self.processed_text.textChanged.connect(self.save_state)  # Processed Text değişikliklerini kaydetmek için
 
 
-            self.file_path_label = QLabel('')
-            self.file_path_label.setFont(QFont('Seoul', 12))
-            left_layout.addWidget(self.file_path_label)
-            self.file_path_label.setContextMenuPolicy(Qt.CustomContextMenu)
-            self.file_path_label.customContextMenuRequested.connect(self.show_context_menu)
+        self.file_path_label = QLabel('')
+        self.file_path_label.setFont(QFont('Seoul', 12))
+        left_layout.addWidget(self.file_path_label)
+        self.file_path_label.setContextMenuPolicy(Qt.CustomContextMenu)
+        self.file_path_label.customContextMenuRequested.connect(self.show_context_menu)
 
-            # Read button and label
-            self.read_button = self.create_read_button()
-            left_layout.addWidget(self.read_button)
+        # Read button and label
+        self.read_button = self.create_read_button()
+        left_layout.addWidget(self.read_button)
 
-            self.read_label = QLabel('')
-            self.read_label.setFont(QFont('Arial', 10))
-            left_layout.addWidget(self.read_label)
+        self.read_label = QLabel('')
+        self.read_label.setFont(QFont('Arial', 10))
+        left_layout.addWidget(self.read_label)
 
-            self.load_button = self.create_icon_button('icons/load_icon.png', self.select_input_folder)
-            left_layout.addWidget(self.load_button)
+        self.load_button = self.create_icon_button('icons/load_icon.png', self.select_input_folder)
+        left_layout.addWidget(self.load_button)
 
-            self.prev_button = self.create_icon_button('icons/prev_icon.png', self.show_prev_message)
-            left_layout.addWidget(self.prev_button)
+        self.prev_button = self.create_icon_button('icons/prev_icon.png', self.show_prev_message)
+        left_layout.addWidget(self.prev_button)
 
-            self.next_button = self.create_icon_button('icons/next_icon.png', self.show_next_message)
-            left_layout.addWidget(self.next_button)
+        self.next_button = self.create_icon_button('icons/next_icon.png', self.show_next_message)
+        left_layout.addWidget(self.next_button)
 
-            splitter.addWidget(left_container)
+        # QComboBox for file selection
+        self.file_selector = QComboBox(self)
+        self.file_selector.currentIndexChanged.connect(self.go_to_selected_file)
+        left_layout.addWidget(self.file_selector)
 
-            # Right container with layout
-            right_container = QWidget()
-            right_layout = QVBoxLayout(right_container)
-            right_layout.setSpacing(10)
-            right_layout.setContentsMargins(10, 10, 10, 10)
+        splitter.addWidget(left_container)
 
-            self.scroll_area = QScrollArea()
-            self.scroll_widget = QWidget()
-            self.table_layout = QGridLayout(self.scroll_widget)
-            self.scroll_area.setWidget(self.scroll_widget)
-            self.scroll_area.setWidgetResizable(True)
-            right_layout.addWidget(self.scroll_area)
+        # Right container with layout
+        right_container = QWidget()
+        right_layout = QVBoxLayout(right_container)
+        right_layout.setSpacing(10)
+        right_layout.setContentsMargins(10, 10, 10, 10)
 
-            button_layout = QHBoxLayout()
-            self.add_row_button = self.create_icon_button('icons/add_icon.png', self.add_table_row, 40)
-            button_layout.addWidget(self.add_row_button)
+        self.scroll_area = QScrollArea()
+        self.scroll_widget = QWidget()
+        self.table_layout = QGridLayout(self.scroll_widget)
+        self.scroll_area.setWidget(self.scroll_widget)
+        self.scroll_area.setWidgetResizable(True)
+        right_layout.addWidget(self.scroll_area)
 
-            self.save_button = self.create_icon_button('icons/save_icon.png', self.save_state)
-            button_layout.addWidget(self.save_button)
+        button_layout = QHBoxLayout()
+        self.add_row_button = self.create_icon_button('icons/add_icon.png', self.add_table_row, 40)
+        button_layout.addWidget(self.add_row_button)
 
-            self.export_button = self.create_icon_button('icons/export_icon.png', self.export_table)
-            button_layout.addWidget(self.export_button)
+        self.save_button = self.create_icon_button('icons/save_icon.png', self.save_state)
+        button_layout.addWidget(self.save_button)
 
-            right_layout.addLayout(button_layout)
+        self.export_button = self.create_icon_button('icons/export_icon.png', self.export_table)
+        button_layout.addWidget(self.export_button)
 
-            splitter.addWidget(right_container)
-            
-            # Set initial sizes of the splitter
-            splitter.setSizes([300, 900])  # Adjust these values to set the initial width of the left and right panels
+        right_layout.addLayout(button_layout)
 
-            self.update_read_button()  # Initialize button and label text
+        splitter.addWidget(right_container)
+        
+        # Set initial sizes of the splitter
+        splitter.setSizes([300, 900])  # Adjust these values to set the initial width of the left and right panels
+
+        self.update_read_button()  # Initialize button and label text
+
 
     def switch_view_mode(self):
         selected_mode = self.view_mode.currentText()
@@ -431,12 +437,26 @@ class MessageTool(QMainWindow):
         self.file_path_label.setText(f"Input Folder: {self.input_folder}")
         self.status_bar.showMessage("Input folder selected.", 5000)
 
+    def go_to_selected_file(self):
+        selected_index = self.file_selector.currentIndex()
+        if 0 <= selected_index < len(self.files):
+            self.current_index = selected_index
+            self.show_message()
+            self.save_state()
+            self.status_bar.showMessage(f"Showing file {self.current_index + 1} of {len(self.files)}.", 5000)
+
 
 
     def load_files(self):
         if self.input_folder:
             all_files = sorted([f for f in os.listdir(self.input_folder) if f.endswith('.txt')])
             self.files = all_files  # Update to load all files, including read files
+
+
+            # QComboBox'ı numaralarla doldurun
+            self.file_selector.clear()
+            for i in range(len(self.files)):
+                self.file_selector.addItem(f"File {i+1}")
 
             # Set current_index to the first unread file
             self.current_index = 0
@@ -467,6 +487,7 @@ class MessageTool(QMainWindow):
                 self.update_status()
                 self.update_read_button()  # Update read button text
                 self.status_bar.showMessage(f"Showing file {self.current_index + 1} of {len(self.files)}.", 5000)
+                self.file_selector.setCurrentIndex(self.current_index)  # QComboBox'ı güncelleyin
 
                 # Load table data for the current file
                 self.load_table_data_for_current_file()
@@ -479,6 +500,10 @@ class MessageTool(QMainWindow):
             self.update_status()
             self.update_read_button()
             self.status_bar.showMessage("No files to display.", 5000)
+
+
+
+
 
 
 
@@ -645,6 +670,7 @@ class MessageTool(QMainWindow):
             self.show_message()
             self.save_state()
             self.status_bar.showMessage(f"Showing file {self.current_index + 1} of {len(self.files)}.", 5000)
+            self.file_selector.setCurrentIndex(self.current_index)  # QComboBox'ı güncelleyin
 
 
     def show_prev_message(self):
@@ -655,6 +681,7 @@ class MessageTool(QMainWindow):
             self.show_message()
             self.save_state()
             self.status_bar.showMessage(f"Showing file {self.current_index + 1} of {len(self.files)}.", 5000)
+            self.file_selector.setCurrentIndex(self.current_index)  # QComboBox'ı güncelleyin
 
     def load_table_headers(self):
         config_file = 'config.conf'
@@ -990,6 +1017,8 @@ class MessageTool(QMainWindow):
 
 
 
+
+
     def save_table_data_for_current_file(self):
         if 0 <= self.current_index < len(self.files):
             current_file = self.files[self.current_index]
@@ -1016,6 +1045,8 @@ class MessageTool(QMainWindow):
             self.brand_list = []
             self.category_list = []
             self.color_list = []
+
+
 
     def load_state(self):
         self.load_external_data()  # Load external data first
@@ -1045,8 +1076,13 @@ class MessageTool(QMainWindow):
                     self.load_files()  # Load files after setting the state
 
                 self.processed_text.setText(processed_text)  # Load the processed text
-            self.start_auto_save()  # Start auto save after loading state
+                
+                # Set the file selector to the current index
+                if 0 <= self.current_index < len(self.files):
+                    self.file_selector.setCurrentIndex(self.current_index)
+                    self.show_message()
 
+            self.start_auto_save()  # Start auto save after loading state
 
 
 
